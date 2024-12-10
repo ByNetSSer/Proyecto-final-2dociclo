@@ -1,0 +1,5741 @@
+fileFormatVersion: 2
+guid: 89799de21625519448d7f224b7b45fb4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1737
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba742763ee646564893e4f86757ead22
+      internalID: 654753542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1737
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e910571d0498e44b20ac552fedb42f
+      internalID: 489494821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1737
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17610689ace3ec544a4ed843b00100fa
+      internalID: -1003222680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1737
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a927c336722634f90dc6d02f7950db
+      internalID: 1240079417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1737
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4606c11d4a07bf4098b726763268d52
+      internalID: 364662549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1737
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca461dedec098546b080fe29b27ac20
+      internalID: -1973388832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1737
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9cc9a48a1a53d4fbd56eb140999ab4
+      internalID: 253434015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1737
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0999acc9ec3ad384f92faec68c77a840
+      internalID: 768823437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1737
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9c174cb6a9f584bb1850dedef61521
+      internalID: -518465875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1737
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271050f8c1111e449bb5d78b8c2b29fa
+      internalID: -612533901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1737
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1052d44defa374846acd1bb173ee7ff3
+      internalID: -408281718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1737
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc453ec78b9bb954bbe44e6fa2b0ebda
+      internalID: 1766013897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1758
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86388310998e5b4c824a1d7979e05f9
+      internalID: 1222066391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1740
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577f907d02af374294b90e1b0111b47
+      internalID: -1337986809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1740
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ac6b86313be8543b2841b10932232f
+      internalID: 9804167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1736
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18ce2a51dbecec4382c89c2e8331f60
+      internalID: -1150737269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1736
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a15dcf040afe84eb9f137391ca1f70
+      internalID: -1141780044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1740
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f1da11c11ce240babde0db226db96
+      internalID: -1425581016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1740
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2bf0fc42215904a9b9e4b61f37b315
+      internalID: -1246554210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1736
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a75b8fd4752d8c4ebfedd6bae1ff72b
+      internalID: -171617741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1669
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abc9ff73cd3ff64a9ebcad973284274
+      internalID: 1199731712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1670
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9c784ca6804aa4d96a4aebbe47e8aa
+      internalID: -1149344170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1670
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255c35e48e60fc45ba1a1cdeabf7fd3
+      internalID: 762268091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1671
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344bd7c23f92cc74bba8beed8ab574e6
+      internalID: -2046622565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1669
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c96e58d7827a5d4b9f704d81a268e28
+      internalID: 544937212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1669
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc0c9c3a06ecb439bac7cbcaf5f9c7
+      internalID: -1458596344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1669
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5b2fdfc5c9b2458a3a726febfc154
+      internalID: -964184692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1670
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710547d6d731dc64bb31d0119097ae1c
+      internalID: -1953149528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1670
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339f1bdafcb8ed4fa9b7a0b161a3025
+      internalID: -1459482374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1671
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52a68606d600c45855180e27c96545
+      internalID: -1284722308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1669
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8693915a44e82ea47b0826a4f2e47f11
+      internalID: -1484899712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1669
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192b2142a3d22c6408274fde522b6de7
+      internalID: 690473690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_32
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1669
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d2acba0e235aa44832ce3e3e24faa0
+      internalID: 499650830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_33
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1670
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5cbb09426a55b4b83bc16ab6d93622
+      internalID: -1111698752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_34
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1670
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749e3f6cb24192549aa62f3b8bf4c32c
+      internalID: -1411945411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_35
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1671
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c53a25f6823a41a8bdfa75ad214c4
+      internalID: 330031307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_36
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1669
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1406c98ce33040b42bad496222639
+      internalID: -1387723584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_37
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1669
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3274c7c108164a4e8bc444fe795d48f
+      internalID: 1896007557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1705
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0357e8e37cf89444a13e4d998ebffbd
+      internalID: -193054132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1705
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a343787fcbeaea04a871953c22e1d47b
+      internalID: -1032092050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1705
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510ffd15931f1f34caae9c3fcf92a6ac
+      internalID: 18906920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_41
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1705
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16609fd7d673a4eb2975f46c8d1f26
+      internalID: -1908230094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1705
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558fd72527616124eb121f4acacbeaf1
+      internalID: 1403540233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1705
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e53c8daa954d54b873664c368f0eff
+      internalID: 376305348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1705
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e575cd6f061ad408a9551c3187300f
+      internalID: -245416273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1705
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3437c83a4dc2248b1d7b572adb1c95
+      internalID: -1892700143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1674
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469342733fd6a34abf963fbf4d9e3fa
+      internalID: 744354623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1674
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee49839780bb0418cff3eda54f4e22
+      internalID: -1382619508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1604
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66721652b9d23894fb82897327cd0db1
+      internalID: 1973110212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1602
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6074ccfad3174e8fa3a42df36d50d
+      internalID: -1822855795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1599
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e75694eb126cdc499b672d3eb18365c
+      internalID: -1684975142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1599
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76103987373e744927feed363e6a97
+      internalID: -193009960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1604
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05466f3fdabaca4eb66a5bde2b883ca
+      internalID: 1194849985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1602
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9068a4ee7edda4f49965ba09ebd7c92a
+      internalID: 1620383977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1601
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7814df7614f0a4eae25dccfa7b21ec
+      internalID: 212186707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1601
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a33e9fc4d3434d82608995149cb43
+      internalID: 193575284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_56
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1604
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e358081124a1448957fc2f2184714f
+      internalID: 1780459564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_57
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1602
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febaa1a8f3957a6458c2a5a641188ae3
+      internalID: 779748033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1599
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901d16d3940bd24a98169f20ab12ca1
+      internalID: 159044466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_59
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1599
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd765d5ed0ded34eb6b09e98bdce5b6
+      internalID: -526283353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_60
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1604
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398ea60f6bdb4841b7a0648ff4a242d
+      internalID: 358208067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_61
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1602
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e981f7ea80abe26409088d8274b26791
+      internalID: -221982295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_62
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1601
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd32088e25f8144dac4d7af7479f5e6
+      internalID: -280307294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_63
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1601
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92887a4a3471b14dbbe8641cb8f8544
+      internalID: -2056929746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_64
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1604
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7a8c34acbe404ba8a485b57356973
+      internalID: 109160214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_65
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1602
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d781c2eb0fefb61469fe1b46f814727d
+      internalID: 664843304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_66
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1599
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8e5586f7883a49ad5b6db67a287a4
+      internalID: -1656875423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_67
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1599
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9be58ccf0b2494584c681cb19ad31d
+      internalID: 926434804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1604
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d7c2491d390664c86f37f875a09503
+      internalID: -1786120057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_69
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1602
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365cf5e7d14aef458589a5e42418ca3
+      internalID: 2135407734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_70
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1601
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bcfdd67c7baee4fbcf3aea5c94f013
+      internalID: -253911805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_71
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1601
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3935e65ab13a34c8120aa24e915636
+      internalID: -517181487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1515
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a734c5f4307d49876e6f9260cd91b
+      internalID: 1490454377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1530
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a7c1b2601e0742b1635ca101d48fc
+      internalID: -1137897934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1530
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394787365960404fa1751d632f7bb26
+      internalID: 984896028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1530
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ebd1af81d8a724e8a0da38f8aea797
+      internalID: -558119986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1528
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a52d3c6545b0734f84a3e0cbeba8054
+      internalID: 909375677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1528
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e10fd94266cbc4fb167cabd47d9d34
+      internalID: -1304746649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1525
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61061b428673b774cb9799c0be17832e
+      internalID: -928834127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_79
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1525
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145e672f32427ae46aabdb5309dbdbbf
+      internalID: -2103518880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1525
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe904c0fadd4d324cb09ae2ee52ccc21
+      internalID: 1642876315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_81
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1515
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d3d76d54ead046a64d005e0619ae5
+      internalID: -1881238765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1451
+        width: 40
+        height: 54
+      alignment: 9
+      pivot: {x: 0.44582686, y: 0.5092231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febba51745391d4bb6710e10e3b2c98
+      internalID: 525820048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_83
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1451
+        width: 68
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3988036, y: 0.50670934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed340a5e68edeb44daa7388c4a7e6429
+      internalID: -829635923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_84
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1451
+        width: 65
+        height: 54
+      alignment: 9
+      pivot: {x: 0.41642103, y: 0.50670934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4188f9c8fc921d408a0f75eb2702e3b
+      internalID: 1815969042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_85
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1451
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.44731972, y: 0.5065874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78395ffa81c561746b63016a0c9d567e
+      internalID: -1167659171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1451
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4571cd4e502046a4c39e6ac95217c
+      internalID: 1539925139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_87
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1451
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f43cfdcfd7db46932d4eaa475f7d3
+      internalID: 600355111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1451
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562e45918478b454eae979d3b34bedc3
+      internalID: 657967364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_89
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1451
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56457f2c6bf19c41b4e7f205c8a8635
+      internalID: -423118670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1384
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21f3988e54a0f4eade190fc2842200
+      internalID: 1883090205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_91
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1384
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d78c2498d0026478427a881137f3d6
+      internalID: 520319357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_92
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1384
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21191244a8f7db54d935c0b870e76e06
+      internalID: -51694626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1384
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf5329ca29fe8248aa1b30847e04a2d
+      internalID: 2038003578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_94
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1384
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f55bf8998edf0e4f911bf3b4614083f
+      internalID: 1676108059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_95
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1384
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd83e95bf947de44a54fe7126d60ced
+      internalID: -752193899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_96
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1384
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bcae6dc9f85d24bb799344ec7c11f0
+      internalID: -998725920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_97
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1310
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15139e85833b8124b9849e54d4abba74
+      internalID: -230673537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_98
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1313
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db491bf07a0c34088f3c6e3fccd7ca
+      internalID: 343625256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_99
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1318
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e298499537735498b65e70e57c7ada
+      internalID: 1336729018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_100
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1318
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ce49b27b2a7c49bb8671beac88744
+      internalID: 609135632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1315
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9f839270bb6f7498f15df905159948
+      internalID: 692418459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_102
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1312
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eebfb8142d61a4997375d511c69faa
+      internalID: 500116356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1310
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a81796768e81864c99275a13ded0e4b
+      internalID: -1467213358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1251
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf32c844f836f4fa7749a4c0c15a55
+      internalID: 971440600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_105
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1247
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645b9900cd268f46a0e38db20fab8e4
+      internalID: -1327805364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_106
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1245
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75948ad1ee50744c90c6aa8d9d47732
+      internalID: 593313513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_107
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1245
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e467faf6a4bd4f939c0feeedf9ee6
+      internalID: -603038340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1176
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1846fa0f8e87fcc42a93ed549ba01120
+      internalID: -511308898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_109
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1182
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d004282409d52f141803e508c8880785
+      internalID: -1214092648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_110
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1187
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8501976d6bb2845983e9015900df4e
+      internalID: 892500527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1184
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f699fff3878ca468a0dcb0742bb512
+      internalID: -839974383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1184
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96660478b7ac4f041b7d82aea8d0f9f6
+      internalID: -322598351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_113
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1097
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbf32225a5aa914782f318933321c44
+      internalID: -2040226726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_114
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1097
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e8e6b4058470e4da674a69816de846
+      internalID: -674630047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1097
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e865817b8d02498ce0de5967f4364
+      internalID: -884032132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_116
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1097
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec4ab3a18f399b44aaadcb52f3fb970
+      internalID: 1123427216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_117
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1097
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7076d782a05a504c8ede078868a1e14
+      internalID: 178813209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_118
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1097
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ebff5be962edb4693d31fb48c4a7cb
+      internalID: 1724594791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_119
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1097
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a32738a2e6d6d48a39ab5a41651c5f
+      internalID: 937789082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_120
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1097
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b575c83c660f84aa09a0ee99df86b5
+      internalID: -526207603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_121
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1029
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be348106e6696b419d1adaf38b3d608
+      internalID: 1206001981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_122
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1029
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc38b43f6571d944a8774833797c5d9
+      internalID: -1318833544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_123
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1029
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f4d4cce461b7143b4d55c00f0efdcd
+      internalID: 1900399575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_124
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1029
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e63acbbee960479357aed85d58530
+      internalID: -1131267178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1029
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01457674725ff47ad2d4a6cbe2f247
+      internalID: -927841595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_126
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 961
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015a0b1a2e7b5654b820775f4955d418
+      internalID: -229795047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_127
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 961
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0463970bf298c444eaecf1c4e2c4d4a4
+      internalID: 2111094919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_128
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 961
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da61c0e80d61a44188fb58ba7726f17
+      internalID: 1647568042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_129
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 961
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b39a96d40962f4a89d92ff3fb09d40
+      internalID: -257363134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_130
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 961
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837137a2a7480a347bb198f61e576723
+      internalID: 68034632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_131
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 961
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61603732f77baad41a8c4ce25b204075
+      internalID: -1877056535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 961
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2dbe52b3b26094e9093a00cd91e3ae
+      internalID: 455751939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_133
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 961
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1f153f81c35d74393ccb22c303a65e
+      internalID: 590296598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 893
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa995cfe2d6e8414baba47595aa8cce5
+      internalID: -125985669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_135
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 893
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5301f910f3076488bc0bc979993c00
+      internalID: -2113938020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_136
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 893
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d15168115b8f7c43aa090fd9f9b214f
+      internalID: -2053021596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_137
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 893
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f077ac4912fad40be623a5721fe49c
+      internalID: 1121677451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_138
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 893
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13671abf82bd5d94d84e1b1cd116ce63
+      internalID: 1752564785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_139
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 828
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d9977285b1f84eae1b2e7b0f182ac
+      internalID: 1452975766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_140
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 828
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ae960e093c084282267b1e99a6afa
+      internalID: -859783898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_141
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 828
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b2861ff45674469defe1f326af9e9
+      internalID: 1522308406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_142
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 828
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c615877c2caaf944aabb6c96461e01b
+      internalID: 606172915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_143
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 828
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b77caf3f36da2d4e97edd8642fef31f
+      internalID: -1276266800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_144
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 828
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e428577451d1294985a877457fbe904
+      internalID: 1837138876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_145
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 828
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7097f5fbea7ab64f855a19f4850d406
+      internalID: -1781377973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_146
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 828
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc542de75117a1148b742e5ba2cbeddd
+      internalID: -1184375996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_147
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 828
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7216647f58d734480b092d7a95621d
+      internalID: 2089738648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_148
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 828
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704ad163d29649498f9df8d8f404c8e
+      internalID: 280691465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_149
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 828
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c544ce98373cd284ca7a7d87c77d2251
+      internalID: 597460623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_150
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 828
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5632b41f35c71429cfa2c63732adcd
+      internalID: -156553864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_151
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 754
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b9fa2d0adf5d04eb77c2b2e2e66064
+      internalID: -1326794336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_152
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 754
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc341acec228f246bb3f6eaacf7ae2e
+      internalID: -967141945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_153
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 756
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff5e9302495464abac5614bb107fa3
+      internalID: -590663614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_154
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 756
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f0d0ba80053974aac0344dc382c3ce
+      internalID: 405732950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_155
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 756
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0925a5098ad09ad40a4fe313d0e77875
+      internalID: -1698895659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_156
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 754
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ddcff9182c3fc40bd6b5ca395ce26f
+      internalID: 890023104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_157
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 754
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8688b5082efaf194ea024cbc85947796
+      internalID: 1614621380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 754
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cc4dded2cf28a40aab5713a65bc3a0
+      internalID: 175728561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_159
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 766
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736830117d816a34c86db4128257ed95
+      internalID: 122845128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_160
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 766
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab17531961106eb4a81cfe71cf000f38
+      internalID: -1260272646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_161
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 764
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3554296be411f49a8fcec6e01dd16f
+      internalID: -948106124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_162
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 755
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b57debbc46200e42bc053f3cfe16bfa
+      internalID: 1874199679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_163
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 754
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41de7c63234ae0449f1faae8ae3b2e2
+      internalID: 1606475916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_164
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 689
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f58d0ae916f0854a845c5c21d739f96
+      internalID: 2145833318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_165
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 689
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3354c00e0fccdd42839b663404bef82
+      internalID: 568725234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_166
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 689
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d5a9e9aa552e44917feb725c1d75e
+      internalID: 890603866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_167
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 622
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f636357014bc2b4d914ead2b528edf0
+      internalID: -30295295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_168
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 622
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62725b63c614e4687043672839b09c
+      internalID: 1730502552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_169
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 622
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b2dcbd49b9c5e44814a045e76ed97c
+      internalID: -1382787789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_170
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 622
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d394535e5395e64bb6d2f2b788b46ba
+      internalID: -843753902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_171
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 622
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b00051d956fa3c4aa9d6ad020364418
+      internalID: 1599812217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_172
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 622
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a21b7016d91740a1d7e11cc92322e
+      internalID: -542687987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_173
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 622
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9564e1056f0ad4db3d24afbba7815a
+      internalID: -2013675165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_174
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 533
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067df90ce2eaf144ea3957e162904455
+      internalID: 1282136286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_175
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 545
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cbf501e91a4b245a2665e3e47bb7e2
+      internalID: -1319578644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_176
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 554
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0ed9b9bc3e4040a387e414b0bf21a
+      internalID: -1853751867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_177
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 570
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268d4d7874b1f044b8ae64f7d06b96ff
+      internalID: -1308262553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_178
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 569
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40650a57cb9d14fa312efc5a8a26ed
+      internalID: -1007313762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_179
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 561
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff0a91442983704b8a6cd1bbd5aaf8c
+      internalID: 1821837386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_180
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 536
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755f01062b2e5e44797b63a86bab5bd3
+      internalID: 439526620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_181
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 538
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023ebd7f1e06b6b4aa4f04af479e1f52
+      internalID: 1676365519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_182
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 542
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b1db61002a56f4db1cee58a3520315
+      internalID: -576775168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_183
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 535
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72e283ca4245a14a8307bdacf9dfac7
+      internalID: -504338494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_184
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 540
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdb8d4bfbd18914989a5ab82099ae69
+      internalID: -1704587509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_185
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 536
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285ad7cc663c454384fc8b03c98bf21
+      internalID: 116589800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_186
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 535
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36577708d2971e4ea5bc4db020afb5a
+      internalID: 1863482535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_187
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 536
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ae4aa855084c7498c57b69cf268e4d
+      internalID: -298472157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_188
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 467
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2016a8903f5b9d47aa4549300826d3c
+      internalID: -393324427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_189
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 467
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f92c430051c6d41af4fb6adbb5aa9b
+      internalID: 797064936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_190
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 467
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2565817de2ca459ebee01211c05cc
+      internalID: 844297458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_191
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 467
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2f88b102487fc46bbef79c23eddbe7
+      internalID: -1698693346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_192
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 467
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5588e9272523db4198ca32a75d8912c
+      internalID: 753276770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_193
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 467
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739be3e0a5bf9a740b7ab08d08835e35
+      internalID: 327292681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_194
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 467
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf3d6312f444234984ecc84cb3dcc3c
+      internalID: 502056442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_195
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 467
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f93df463313545a751a74ba31441e
+      internalID: -153034794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_196
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 425
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369ed6b6e034a5243985226ddb49724e
+      internalID: 1502671123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_197
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 426
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1343532e1fc62043ba649afd00dd35d
+      internalID: -469578529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_198
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 426
+        width: 71
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813031f476a0a1640964229e39942506
+      internalID: -413982476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_199
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 426
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c538b885a92e94db5f3cd4fe5483dc
+      internalID: -2085670706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_200
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c437a19ddad548baf9d03aede1893
+      internalID: -524797849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_201
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 352
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531391619f55dbf4d84da85c16da6a00
+      internalID: -518781312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_202
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 352
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba200abb30d92bc43a9ece42be1a2660
+      internalID: -1670431624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_203
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 353
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d0befce8bd8574c9e756b93906cd7a
+      internalID: -1616593276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_204
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 356
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9b1abf6b6e2734b9f43fa1e5ac4143
+      internalID: 1617669181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_205
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 352
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80439ffe5aa66bb43a512b8c397d4143
+      internalID: 31511377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_206
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 352
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3567b99070c6f9545a36694d19cabf8e
+      internalID: 1714644032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_207
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 360
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34049cde7f82d44b68e15b27d1c766
+      internalID: -161061386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_208
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 358
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268a3f39abbd58b4fbc43f57d844e36a
+      internalID: -2147012866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_209
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 354
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cbd61f81cb6d048be850c732922ae0
+      internalID: 1394850236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_210
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 371
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f022ff5b4d07a4c9b42d40af080819
+      internalID: -1165573481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_211
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 316
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b5d1d98fc8d0c4d9ed7ff86ec40b8d
+      internalID: 1161244836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_212
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 315
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f22127872c354c9d815c8991ce6da
+      internalID: -529763713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_213
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 313
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ea3deb5c77d944ab2e8f090763e6e
+      internalID: -1130768482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_214
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 289
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ddc7f234edf8468c3f4d84bd1a753
+      internalID: -569757668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_215
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 289
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7951b9fcd35c254488f2e8da0500ab37
+      internalID: 1821844430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_216
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 279
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6f48990ee49145bd4f47f90078d45
+      internalID: 639651041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_217
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 293
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de2545e75dc4f54189baea154136985
+      internalID: 1552940577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_218
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 316
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b78d8d812ef5446872270579c04366
+      internalID: -505942744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_219
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 315
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1256c23227ab4bad6864276098d6f
+      internalID: -808650597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_220
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 313
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e635bcf432b76419fffe295fe6bdad
+      internalID: -747200709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_221
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 289
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c66bb878beb9f41bff8ec0299490a2
+      internalID: -1852567924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_222
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 289
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26008dd3430f3049a7caa2ce9e388ef
+      internalID: -1956657850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_223
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 279
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a96ebb1d8d07949ab81c840ead8c95
+      internalID: 1314451897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_224
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 212
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8f7579db535a419523027baa8b6b6
+      internalID: -823372142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 212
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be422906cd4ee4d9dc4433e8a183af
+      internalID: -525270755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_226
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 212
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21490021206de644bfd32cfa8c17f57
+      internalID: -1226266141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_227
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 212
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb36cef7e0ea144b5a7c4ff549251f
+      internalID: -947948243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_228
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 212
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55ef83f92ef9714596b03931252d985
+      internalID: -551504242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_229
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 212
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee355c398010c46b98b45ad75361ed
+      internalID: 731124726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_230
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 212
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fe2c6b162416f45964a572936e1fde
+      internalID: -748612395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_231
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 212
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74be265cc1dc40d479c89d53125a5e18
+      internalID: -122587395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_232
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 212
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800deed0fae0134f8bccba080117abd
+      internalID: 1144246172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_233
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 212
+        width: 62
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3410733, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af266fb4a1895244486a42493caaa204
+      internalID: 1697092447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_234
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 212
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3525145, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2f3add6453a214d9b36715bdec7d9f
+      internalID: -579669233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_235
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 212
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.35, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e0511c93cc8643bad50dd4fd880c9
+      internalID: 464241275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_236
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 212
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe1a44c62636424f919fa6f49a7b9b7
+      internalID: 1008703509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_237
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 212
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e73dbcad2470a74290940c1c8fb1d63
+      internalID: 149583165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_238
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 212
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf97b0930b794044abac46176994cda
+      internalID: -768146177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_239
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 212
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7690a1e7cc01f540b1e813b2eea6269
+      internalID: -939975318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_240
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1781d7102f1f684e858343883b278ad
+      internalID: -2059890377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_241
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14210b2c28b53442a4e92ad5246647b
+      internalID: -754553992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_242
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 69
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7667001e4627c43817982e2986dcfa
+      internalID: -359524792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed691eb393d744b9a8bcf7cb69c187
+      internalID: 1468366994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_244
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 89
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8f029d02423f84799e969a42e6ffa0
+      internalID: 1230748671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_245
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c548cdd72641b9e4c8ab9ced269af1db
+      internalID: 1651333072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_246
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 90
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523245f84df2034499e894e0406edd3b
+      internalID: 335989004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_247
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2391a5c22c3834abbfa63b30578b20
+      internalID: -1699069084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_248
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 20
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e02c44937641b2448466661556590c3
+      internalID: -1213205374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_249
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2f63722e28cc142a5e1c3ca304aa24
+      internalID: -1967268167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_250
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a94bbe42cce484aa62073f7ab13a4a
+      internalID: 1777983165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_251
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2594a8e6f00a356489c65af0193cff9a
+      internalID: 2100223156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_252
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 4
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e31bdc325ee5a488edcbaff0b23cec
+      internalID: -1122556353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_253
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 14
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b711febce72b44a237a0fc64a6a0c
+      internalID: -670726446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_0: 654753542
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_1: 489494821
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_10: -408281718
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_100: 609135632
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_101: 692418459
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_102: 500116356
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_103: -1467213358
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_104: 971440600
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_105: -1327805364
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_106: 593313513
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_107: -603038340
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_108: -511308898
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_109: -1214092648
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_11: 1766013897
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_110: 892500527
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_111: -839974383
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_112: -322598351
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_113: -2040226726
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_114: -674630047
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_115: -884032132
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_116: 1123427216
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_117: 178813209
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_118: 1724594791
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_119: 937789082
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_12: 1222066391
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_120: -526207603
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_121: 1206001981
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_122: -1318833544
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_123: 1900399575
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_124: -1131267178
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_125: -927841595
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_126: -229795047
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_127: 2111094919
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_128: 1647568042
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_129: -257363134
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_13: -1337986809
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_130: 68034632
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_131: -1877056535
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_132: 455751939
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_133: 590296598
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_134: -125985669
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_135: -2113938020
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_136: -2053021596
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_137: 1121677451
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_138: 1752564785
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_139: 1452975766
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_14: 9804167
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_140: -859783898
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_141: 1522308406
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_142: 606172915
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_143: -1276266800
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_144: 1837138876
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_145: -1781377973
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_146: -1184375996
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_147: 2089738648
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_148: 280691465
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_149: 597460623
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_15: -1150737269
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_150: -156553864
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_151: -1326794336
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_152: -967141945
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_153: -590663614
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_154: 405732950
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_155: -1698895659
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_156: 890023104
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_157: 1614621380
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_158: 175728561
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_159: 122845128
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_16: -1141780044
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_160: -1260272646
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_161: -948106124
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_162: 1874199679
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_163: 1606475916
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_164: 2145833318
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_165: 568725234
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_166: 890603866
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_167: -30295295
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_168: 1730502552
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_169: -1382787789
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_17: -1425581016
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_170: -843753902
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_171: 1599812217
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_172: -542687987
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_173: -2013675165
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_174: 1282136286
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_175: -1319578644
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_176: -1853751867
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_177: -1308262553
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_178: -1007313762
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_179: 1821837386
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_18: -1246554210
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_180: 439526620
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_181: 1676365519
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_182: -576775168
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_183: -504338494
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_184: -1704587509
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_185: 116589800
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_186: 1863482535
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_187: -298472157
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_188: -393324427
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_189: 797064936
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_19: -171617741
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_190: 844297458
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_191: -1698693346
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_192: 753276770
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_193: 327292681
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_194: 502056442
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_195: -153034794
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_196: 1502671123
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_197: -469578529
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_198: -413982476
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_199: -2085670706
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_2: -1003222680
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_20: 1199731712
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_200: -524797849
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_201: -518781312
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_202: -1670431624
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_203: -1616593276
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_204: 1617669181
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_205: 31511377
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_206: 1714644032
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_207: -161061386
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_208: -2147012866
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_209: 1394850236
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_21: -1149344170
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_210: -1165573481
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_211: 1161244836
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_212: -529763713
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_213: -1130768482
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_214: -569757668
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_215: 1821844430
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_216: 639651041
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_217: 1552940577
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_218: -505942744
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_219: -808650597
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_22: 762268091
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_220: -747200709
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_221: -1852567924
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_222: -1956657850
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_223: 1314451897
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_224: -823372142
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_225: -525270755
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_226: -1226266141
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_227: -947948243
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_228: -551504242
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_229: 731124726
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_23: -2046622565
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_230: -748612395
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_231: -122587395
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_232: 1144246172
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_233: 1697092447
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_234: -579669233
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_235: 464241275
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_236: 1008703509
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_237: 149583165
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_238: -768146177
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_239: -939975318
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_24: 544937212
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_240: -2059890377
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_241: -754553992
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_242: -359524792
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_243: 1468366994
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_244: 1230748671
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_245: 1651333072
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_246: 335989004
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_247: -1699069084
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_248: -1213205374
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_249: -1967268167
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_25: -1458596344
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_250: 1777983165
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_251: 2100223156
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_252: -1122556353
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_253: -670726446
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_26: -964184692
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_27: -1953149528
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_28: -1459482374
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_29: -1284722308
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_3: 1240079417
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_30: -1484899712
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_31: 690473690
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_32: 499650830
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_33: -1111698752
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_34: -1411945411
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_35: 330031307
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_36: -1387723584
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_37: 1896007557
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_38: -193054132
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_39: -1032092050
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_4: 364662549
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_40: 18906920
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_41: -1908230094
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_42: 1403540233
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_43: 376305348
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_44: -245416273
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_45: -1892700143
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_46: 744354623
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_47: -1382619508
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_48: 1973110212
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_49: -1822855795
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_5: -1973388832
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_50: -1684975142
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_51: -193009960
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_52: 1194849985
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_53: 1620383977
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_54: 212186707
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_55: 193575284
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_56: 1780459564
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_57: 779748033
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_58: 159044466
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_59: -526283353
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_6: 253434015
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_60: 358208067
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_61: -221982295
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_62: -280307294
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_63: -2056929746
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_64: 109160214
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_65: 664843304
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_66: -1656875423
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_67: 926434804
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_68: -1786120057
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_69: 2135407734
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_7: 768823437
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_70: -253911805
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_71: -517181487
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_72: 1490454377
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_73: -1137897934
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_74: 984896028
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_75: -558119986
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_76: 909375677
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_77: -1304746649
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_78: -928834127
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_79: -2103518880
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_8: -518465875
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_80: 1642876315
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_81: -1881238765
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_82: 525820048
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_83: -829635923
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_84: 1815969042
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_85: -1167659171
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_86: 1539925139
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_87: 600355111
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_88: 657967364
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_89: -423118670
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_9: -612533901
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_90: 1883090205
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_91: 520319357
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_92: -51694626
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_93: 2038003578
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_94: 1676108059
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_95: -752193899
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_96: -998725920
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_97: -230673537
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_98: 343625256
+      Xbox 360 - Scott Pilgrim vs the World The Game - Mike (1)_99: 1336729018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

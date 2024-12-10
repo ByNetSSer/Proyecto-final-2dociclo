@@ -1,0 +1,1473 @@
+fileFormatVersion: 2
+guid: 5f25a0cab944a064db6df1614feb24dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blackball_68x9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19a86a022d1b846a771bd108c8d363
+      internalID: 384513857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e3997e61be0734ea1045a53afcf468
+      internalID: -392472946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c5eb181407d441a74d3de6cbbca2a
+      internalID: -1143397049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be3e1c69f587cc4eacc27c0de8e5b1b
+      internalID: -1447078465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24dc52b6c40a2b47997eb4d1d487f06
+      internalID: -1784076011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3111773ddd8c4ca6cc0ea61b0548a
+      internalID: 386757251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d977a6cd7abbb64cbac6550f06deba5
+      internalID: -523194780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f7376de25d83143ae63ee2bf1a8805
+      internalID: -679268032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5525f858cc2cb049b4648a4201f2765
+      internalID: -580657752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462e92d38d622f40a50e13aa1673f2f
+      internalID: 602400531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc15edae239bfd44c8b81f6df32d3188
+      internalID: -1006007954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d5ff2aaca942c4ebbd595d75929045
+      internalID: 830068041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f692809a1a57478392d09d567b9d9
+      internalID: -1778242415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2432b9dcdb13d54287f8495515a2fa2
+      internalID: -1519979007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2220837aea5b9fc4aa3efb4dd0d1ac23
+      internalID: 879508443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe5b01f382d344f9931c788e63c5cc
+      internalID: -1456991599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f520c23390548e64f90fd98f3a7490ec
+      internalID: 1660656778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5fb4493fcc1934c93b882721a0074a
+      internalID: -1252311043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22385fc7130b1dc48bdd0db1ebb5de05
+      internalID: 1404301301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 45
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b14e9d19b21275439d7e17e3f3eeafd
+      internalID: -215658382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff63da457ad1d4ca3f9ed0b7ec7b7a
+      internalID: -1226140859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02390027f6f5eb34695efe04c3c01236
+      internalID: -1464504275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b8baa55de96043bda91f824c298f9
+      internalID: -1499085212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba1c935ef19fa74c8a3cea18bbd4fab
+      internalID: -1522110756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eacf5df98a0db48b5594a7da6c112d
+      internalID: 216028581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bce2b96697cd141906112e7d2d1686
+      internalID: -971376090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d39f3047cfd364ea2ca71263350064
+      internalID: -838445881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93adbec737dae44993ea94e6ea9e57e
+      internalID: 793230066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1a0e7ded1b8344fad57cf9a3b1aa17
+      internalID: -940670739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_29
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 36
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b612a2112e505419877b73e9ce72c6
+      internalID: 1872094195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c704553f4e10ac34baf795aeba817813
+      internalID: -349547284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9545ea30bd5104479a828fc9ab7f05e
+      internalID: -2075730163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483f346a4705e8409f934fa7f00d32f
+      internalID: -882568989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c044ea5f37007d048bdb8018909ea348
+      internalID: -1335923754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ecb404a413e7b48b726841eb47257f
+      internalID: -736968602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c4f0560901d694da0d1dc5867091a7
+      internalID: 1384338842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c01ef0f3dad9541b230065f49d3938
+      internalID: 951441567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_37
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6c40978da71804c89fea2dafc1b447
+      internalID: 846196211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e88e5cc79bcf74cae2c9e6035ae3de
+      internalID: -1570331590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_39
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 27
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a0aec0dfbdcf64cb175034cdc9d15a
+      internalID: -597097698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d54c1cdbba8b549bde8c72664d749d
+      internalID: -1285010515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856c4293424ebae4eac9de7deae1d4c1
+      internalID: -1075648076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817484722a18d084b868bfe6fd1ed138
+      internalID: -498580774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d5c3f3bef532344a491b36504ef693
+      internalID: 1602002843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a261b4317fd1d4994ce44d4e115794
+      internalID: -1984787064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd647b5b5d972d47adb5279203c7f1a
+      internalID: -1122018314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb96d57b725b25c4e8e8d38bd4d3c458
+      internalID: 284755562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_47
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd403a7a77a692498984d50e0142ce6
+      internalID: 391799735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_48
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7c896a6e10ebe4ba610dd08d4af2a5
+      internalID: 1339557986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_49
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 18
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ce67016e8e89c4c9e2ba95aaa44722
+      internalID: 678593475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff8ae0dba9cf9843aa0957a045a1132
+      internalID: 1632949081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328fcebde3328494c87a3e1c2d03155d
+      internalID: -382044601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b995b725cbdb44993b057d00c87c7
+      internalID: -1846690205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac9c1c8e3774541af428e612ca9d28
+      internalID: -1195643693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb9b31ffd76904db49a43925007f33
+      internalID: 189054208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe94e37ff168964899c4a77ba289646
+      internalID: -1551498350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10510ec89a261d447b435d1a08370d03
+      internalID: 1269113607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_57
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0cb5fdf641457408e44168d1b2bd37
+      internalID: 1528509081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_58
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36d5592a2e36364d9c076f1b0ad46a2
+      internalID: 603100915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blackball_68x9_59
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 9
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e84cb2d37ef834bbf4d58171da76c8
+      internalID: 2015738456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blackball_68x9_0: 384513857
+      Blackball_68x9_1: -392472946
+      Blackball_68x9_10: -1006007954
+      Blackball_68x9_11: 830068041
+      Blackball_68x9_12: -1778242415
+      Blackball_68x9_13: -1519979007
+      Blackball_68x9_14: 879508443
+      Blackball_68x9_15: -1456991599
+      Blackball_68x9_16: 1660656778
+      Blackball_68x9_17: -1252311043
+      Blackball_68x9_18: 1404301301
+      Blackball_68x9_19: -215658382
+      Blackball_68x9_2: -1143397049
+      Blackball_68x9_20: -1226140859
+      Blackball_68x9_21: -1464504275
+      Blackball_68x9_22: -1499085212
+      Blackball_68x9_23: -1522110756
+      Blackball_68x9_24: 216028581
+      Blackball_68x9_25: -971376090
+      Blackball_68x9_26: -838445881
+      Blackball_68x9_27: 793230066
+      Blackball_68x9_28: -940670739
+      Blackball_68x9_29: 1872094195
+      Blackball_68x9_3: -1447078465
+      Blackball_68x9_30: -349547284
+      Blackball_68x9_31: -2075730163
+      Blackball_68x9_32: -882568989
+      Blackball_68x9_33: -1335923754
+      Blackball_68x9_34: -736968602
+      Blackball_68x9_35: 1384338842
+      Blackball_68x9_36: 951441567
+      Blackball_68x9_37: 846196211
+      Blackball_68x9_38: -1570331590
+      Blackball_68x9_39: -597097698
+      Blackball_68x9_4: -1784076011
+      Blackball_68x9_40: -1285010515
+      Blackball_68x9_41: -1075648076
+      Blackball_68x9_42: -498580774
+      Blackball_68x9_43: 1602002843
+      Blackball_68x9_44: -1984787064
+      Blackball_68x9_45: -1122018314
+      Blackball_68x9_46: 284755562
+      Blackball_68x9_47: 391799735
+      Blackball_68x9_48: 1339557986
+      Blackball_68x9_49: 678593475
+      Blackball_68x9_5: 386757251
+      Blackball_68x9_50: 1632949081
+      Blackball_68x9_51: -382044601
+      Blackball_68x9_52: -1846690205
+      Blackball_68x9_53: -1195643693
+      Blackball_68x9_54: 189054208
+      Blackball_68x9_55: -1551498350
+      Blackball_68x9_56: 1269113607
+      Blackball_68x9_57: 1528509081
+      Blackball_68x9_58: 603100915
+      Blackball_68x9_59: 2015738456
+      Blackball_68x9_6: -523194780
+      Blackball_68x9_7: -679268032
+      Blackball_68x9_8: -580657752
+      Blackball_68x9_9: 602400531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

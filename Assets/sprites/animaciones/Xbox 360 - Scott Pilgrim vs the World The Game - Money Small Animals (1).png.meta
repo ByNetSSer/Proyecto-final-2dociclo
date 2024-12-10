@@ -1,0 +1,5995 @@
+fileFormatVersion: 2
+guid: 96389a51898b1eb45b73bc9c2ae0d638
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 357
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee465074557999d4fb0bee971defc669
+      internalID: 674204585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 357
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97031d32833e79b47b32fb221564e12b
+      internalID: 83317031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 357
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d614e00ab3cb4fb1cbeac61e08da9
+      internalID: -1146663126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 357
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fde8f04563bb24d924ad36cbace064
+      internalID: -111384509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 357
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c9f369859c954ba0946a0e4815b91
+      internalID: -468968369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 357
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e5c22f305fc964589ac24deb5e7cc2
+      internalID: -1418605143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 357
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bed58a9cd1512499f2334f1284821f
+      internalID: -299875601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 357
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801acaf7f62c99345ac3f425a6a42e84
+      internalID: 365952524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 357
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119ac9b63f9869649a368b550bf39fc7
+      internalID: -1694317757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 357
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15d6bbecc6225a468370a2c10598f15
+      internalID: -1059491140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 358
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015da8d83ecd25742be1a6122443683a
+      internalID: 1218884003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 357
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b1248194f2534996b141eea78630b
+      internalID: -1605810491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 357
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5e49092fad2034bbb05ef696fd27c3
+      internalID: -1126145992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 357
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8691f0f7f7a6348a120bbd2e67e622
+      internalID: 1315422273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 357
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997379770a7e252499e7d4966618d71f
+      internalID: -46250946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 357
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79f03796bf7824c9991cf0f0a01c5a
+      internalID: -1996533965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 357
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c65c04857983bb409c3a53e8269e3a0
+      internalID: 991030527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 357
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8b17ef0b78984187da33d965a608d
+      internalID: 1649631735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 354
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e736eaf4cc23394d9d8b21f945cde81
+      internalID: -78654752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 354
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651d082c032d264f9c0dbf8fd57690a
+      internalID: -417721971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 354
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d0c9d489019a41a32c26db62388d5
+      internalID: -2042153601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 354
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9684dae95fa8f6b49b8d5ab06f4859d4
+      internalID: 1307328307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 330
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb6ee9815bffd49a509f08bc8d6f5d
+      internalID: -419525813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 330
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408bad021f3a0c744840bd2b6beac80f
+      internalID: 1366004599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 330
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7216aeba77ae55d4ca958970b7ee9ea1
+      internalID: 1500087307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 330
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec6e550b55af994fbed382915405ac2
+      internalID: -2100305778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 330
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd5fe7e44f7c24eb738af60de68059
+      internalID: 1221059611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 330
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99651471c311ee746bc26b2047633c3f
+      internalID: -70337533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 330
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1097e7c3f163bdc4488932597398f7fd
+      internalID: -335963615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 330
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761b36bf84b874242b0f7f803f193821
+      internalID: 901497426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 330
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a71f1e0a55304d4889546002b8fab05
+      internalID: -1964002310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 330
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05ea68b7574e0c4eabccc33a5d72cba
+      internalID: 248835261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 331
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a962b8309b2cf8469d83206b5cc7ddb
+      internalID: 440770676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 330
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d6f5ec0d0e5ae44888a48572113923
+      internalID: 827200635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 330
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3137d990f74b478408af4ebd4e1d0af3
+      internalID: -2119306196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 330
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947a4b364ed5c0e46b3985d818002e49
+      internalID: 1031320494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 330
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3102f1b251fcc4d8ec133b2ad5b9f6
+      internalID: 935866927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81eaa80e24e23c43bd1950e154d850a
+      internalID: -1340375500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 330
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd104460943b884397325c47919d0ac
+      internalID: 209302439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 330
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a29ff6ab080b547bbf049b2d4ee638
+      internalID: 935283608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 305
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc67b4e775e85b41bbd9ddac861a9dd
+      internalID: -723399023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 305
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de10a866532c44fa2375b57611e6bb
+      internalID: -2043739913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 305
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ae9d095495a4b469b91ced138645e8
+      internalID: -996909820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 305
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58b22a2c4c0904586b681ae87fb2b0
+      internalID: -1098315548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 305
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28ee49c5019d543803c02a7ba2ba18
+      internalID: -1949683076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 305
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb96da3f272850849bd528a18f51491e
+      internalID: 511380008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 305
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe298bbf816bab4f8f9badf248c6b03
+      internalID: -748499044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 305
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6378a932a5606144b9ecc61da9916bfd
+      internalID: 66620377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 305
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4758adebc911d43959a183528202d0
+      internalID: 1779716863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_49
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 305
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1b1bb6049280f499a1db59cd6014b9
+      internalID: -1007885137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 306
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764523dfdc7151441aaddc80bcc8f063
+      internalID: 1625087896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_51
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 305
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e8a331a1dd57741b5d5e8ce59b35d4
+      internalID: -2018289412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 305
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad90899fa33012e43b7966b0495b585a
+      internalID: -353224853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 305
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a939c7db19559e43a383890f1a17bfe
+      internalID: -301618724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 305
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c3880f9d121a046aa422cb629bd6cc
+      internalID: 2031060552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 305
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e92164796bee146994bc5517d87b58
+      internalID: 319514220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 305
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0e4dbbdca1b441869f9e18383a26a
+      internalID: 1980142153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 305
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd50bd53589844c4bae8521219f431a3
+      internalID: 791135338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 286
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63dc17829455e41ba87e0ba43d2ec6
+      internalID: -770920322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 286
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c924e3bb57eba6b4790763da4c4b72aa
+      internalID: 2101063534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 286
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d7b9540f8cea448bcb4a2affa1ac83
+      internalID: 1251528802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 286
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e0e9f3516a2c4d81839d0d4488489
+      internalID: 1541008368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 286
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4b15b04c5abec498dc129c8c1db202
+      internalID: -354472229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 286
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd037b64df692b40b5a757d4273e898
+      internalID: -355617349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 286
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ad2215d803af14cb46eef420390a71
+      internalID: 1308946250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 286
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c011067b1d79a854cac1a03849fa2272
+      internalID: -759232747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_66
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 286
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d586cdf3889704db2bca80a6c8ab22
+      internalID: 16877637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effb5c559e6b7d340a907a39dda037ae
+      internalID: 252754650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 286
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc82b04480571d41af03d2fd38d6275
+      internalID: 357658681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 286
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de3c32155d96841add81dc56934d64
+      internalID: 2145643352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 286
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff1befbb49efc438fef3674d0592ca
+      internalID: -1450179292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 286
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e6e5cd453be6d4cb574a16741cb9bc
+      internalID: -472988995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 286
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433a6e8f0ec2a2248ae94584eaceb5a2
+      internalID: -559956094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 286
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da6e1b36876dc43bd9b67914820b1f
+      internalID: 2081624417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 286
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d7ee0d2ab0bdf41907c15899b8ce6a
+      internalID: 609575150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521501011d76a742ae3e6f99ccf8611
+      internalID: 1659846512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_76
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52533701bfa72e44f8b5e74c49db6a39
+      internalID: 572984493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_77
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051c92b32aca3834e94d779371a172b7
+      internalID: -649508717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b01c56471d4d94fbe2f480a06b7647
+      internalID: 704132519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db4337bf8413d4cb9e8851615b62f1
+      internalID: -884379074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_80
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 264
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096acbe53a1ce9449297aa2f4672228
+      internalID: 617213102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 264
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e15f2366b8f27478702c7261d68ad4
+      internalID: -1591404104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_82
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 264
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fb6cf573078445bb2e739d997f447
+      internalID: -860330088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_83
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 264
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d832ad5ae60a47644850fea2febb27fe
+      internalID: 1650466812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 264
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b859c3f54d3f844b8482af90b28dc40
+      internalID: -1506888940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_85
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 266
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d447eec28b7fb4889b72cd917b7b64
+      internalID: 1226707102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_86
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 264
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b99d0ec672d0841acf8b3950e827f4
+      internalID: -269197999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_87
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 264
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07692f1b2c10843b631b8643b9abf2
+      internalID: 321368616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_88
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 264
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a2294ac244045439abe583f2bfe035
+      internalID: 1870174257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 264
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42987003652e2ce469e0aa28eec36cad
+      internalID: 1843180402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 264
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f3c4feb2a4704428f7f7a1dab40899
+      internalID: 579624136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_91
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 264
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b730b71a0f5ac6e459cf138606b22d7b
+      internalID: 898112382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_92
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 264
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b3c7691a4b0748bf694f9d91ea1f2
+      internalID: -307131838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 226
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141251cbf374c840a28becef79f5cc8
+      internalID: 600419132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_94
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f61239896c47428a668c22ed49ce9
+      internalID: 1564335218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_95
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7451974ea02ec44498ba3d3e802bbda8
+      internalID: 981471948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_96
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 226
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a3d1d2e9044e440b8169508e8adb89
+      internalID: 2028873913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_97
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 232
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc1ad6d3e2aa24b8877c78c007a13b
+      internalID: -1328925241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_98
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 230
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c32487890513f34f85e0f09f90ec5e3
+      internalID: 1785213600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_99
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 230
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94288093587f4f4f850308d31f108fa
+      internalID: -2063768695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 226
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f0a4c4192ac0748b196607fe1cbbde
+      internalID: 156362227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_101
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 226
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4d592dcb6af943a8029d86b70fbeb
+      internalID: 144570855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_102
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 226
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983b7218fee4a7c45a283f644a28c4a7
+      internalID: 580657967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_103
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 226
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd536a0728fcd24f8d27314581cc62c
+      internalID: -829412723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_104
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 226
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc183e902e34c97449db5ef3932ceb19
+      internalID: 2109031936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_105
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 226
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207974985c60324486c5d952706374d
+      internalID: 1344422275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_106
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 226
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a2681fb939e0f4db1bc94e65c9191a
+      internalID: 531981938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_107
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 226
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b259069fa2af8409395599f1a4796a
+      internalID: -919615138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_108
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 226
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f25c1a6912386429b019cf2631a38b
+      internalID: -1516798792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_109
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 225
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189291de5bd3c054a9045490a4ccca29
+      internalID: 1384483216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_110
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 225
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3df078e1617042980df4dc0940f45
+      internalID: 147873609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_111
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 188
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144f24606a8e4f4fbe20c80afde22de
+      internalID: 1851836281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_112
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c52e9c1e0b2b4f99a0e0c41bd1fd1
+      internalID: 1629218086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_113
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 187
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8bad97e0786843b6ea75a8527f765
+      internalID: -2001204629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_114
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 188
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e547d944921f9749b691f849422b739
+      internalID: -1159149270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_115
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 194
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cda962facf45a42990e451d3532a79
+      internalID: -454163189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 192
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d0321c023b58544a508e5dbd0bdab1
+      internalID: -1668721550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_117
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 192
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9931099032a6604cb05c097e2791630
+      internalID: 47519008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_118
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 188
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4502a66297ba6499f6fdd98d5f8dd1
+      internalID: -632612700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_119
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 188
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d579511acc4ce4c9749519d3f41379
+      internalID: 1071341896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_120
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 188
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c4f1cc3a432841875ded951146c36
+      internalID: 1853862572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_121
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 187
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683ba90794546704ba9a58c591291fee
+      internalID: 1285186345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_122
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 187
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e9b2e1dea322498c47e0e2f4d0e59
+      internalID: 352705473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_123
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 199
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b574dcb23d35a49b05427752c0907e
+      internalID: 818761345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_124
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 286
+        width: 3
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ada88a8b07dc04aa7c1df24a5b30ff
+      internalID: 635702998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_125
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 195
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97c0eaef167287499ffaf9e52673454
+      internalID: -176796828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_126
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 195
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46812d2b8b416f643a25d4093dd0ac94
+      internalID: -585091392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_127
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 199
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cde2065921445b4cbdf987ae8bb9759
+      internalID: 198944944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_128
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 199
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cacf02a4a39af4db35140a3812c939
+      internalID: -1109977653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_129
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 195
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359cae0bfed24e54ab19bdf2f47e5b2b
+      internalID: -1850003819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 158
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f268bcb4e5fd4598984a271b690e8
+      internalID: 1480225652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_131
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 157
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a8678989166344802e37ac7261a46
+      internalID: 572834752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_132
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 158
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7ce0f4df02e0f4d8ad4219f6f33015
+      internalID: -331654991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_133
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 159
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e7e57a961d984d8bd11f45b1f5727
+      internalID: 1956870643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_134
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ebb28ba7c665c49b2744caa9e85335
+      internalID: -1482079529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_135
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d66d65908c0db419b2a29cf9086429
+      internalID: 2001002272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_136
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 157
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ae383eaebd7a41a34b0146c920481
+      internalID: -2121000376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_137
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 157
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8271c8b926424d9224f7ce5e436f4
+      internalID: -1000385231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_138
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 157
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e253b59f82089e245a45311d690caf99
+      internalID: 79737329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_139
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 157
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff56445a75fc3a4409a114ef21066d52
+      internalID: 1609719142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_140
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 164
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed29fbfa14afd4489d1f886d9e0eb4
+      internalID: 1300702110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_141
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 164
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78ee52cf6016d04a8f35a5a893cbbec
+      internalID: 294164849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_142
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 164
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360d934a97dbd04a808e026eae6194d
+      internalID: -1985073750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_143
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 164
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073da76b35f948b458b3a2586ff408bd
+      internalID: -1211116948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_144
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 164
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa68d0090a4da40895c54c548a67e1
+      internalID: -998343434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_145
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 164
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8930f649b48e2de4dbed7d42b61befe2
+      internalID: 1464940809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_146
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 164
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dfbbfeeeb28c3438cb73d26d306d14
+      internalID: 1082789652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_147
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 164
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309f2bd2f635dc244a68172bda94d31e
+      internalID: 1830725297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_148
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d662fb97c13324ea80781757005078
+      internalID: 699243169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_149
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b6416d9169af4eb5709e6f1096402
+      internalID: -1520432678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_150
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 128
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f2818d6339ac740976250847de8756
+      internalID: -259931566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_151
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 129
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c6de10a42fa849a9b6eba8c725136
+      internalID: 573768394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_152
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 127
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b1db54b769a464d8d43b19a14450ff
+      internalID: -252213438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_153
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e03f9cad31823f44b85ef7abfefd94f
+      internalID: 1523288323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_154
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 127
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab704336d55d2e4faa6e0f6f342f392
+      internalID: -92879377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_155
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 127
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7c995014da33840b7c91c5ab4a1350
+      internalID: 2071080576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_156
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 127
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d80bd8e55279645911a58b9c5b7acb
+      internalID: 1403299057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_157
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 127
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d305b2ba2eb4d45a64675833d8182a
+      internalID: 1995219420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_158
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 133
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be7d0a3b030662408b4a0741d897585
+      internalID: 545485239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_159
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 133
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1d1487c52d3b44bca0f25dd5ff0f3
+      internalID: -1726275677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 91
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbe041d2f0e0374680e4f55ad14bb5f
+      internalID: -1587891235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_161
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 93
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e4ca8192ead2942b6adf429711a505
+      internalID: -807506929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_162
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 95
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c475e4196dc946baaba7a8e19e2c0
+      internalID: 151739389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_163
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4050e37bfdeb384ba2f8c94856e4ef3
+      internalID: -2136373861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_164
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 91
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3998b507835d8c5468ff7471f08b399a
+      internalID: 1540548430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_165
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 90
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240fec274379794d8f77aba6f571005
+      internalID: -1451280033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_166
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 90
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b1c03d0d22514a8cd3533a9708504
+      internalID: 1392458765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_167
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 92
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8264c336b162954ea9d669fdb1cf6c8
+      internalID: -353315214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_168
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcef216500e5894ba24faaca5704f32
+      internalID: 54074226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_169
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 92
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e8690fb2a5a7408f5ee3c63ad4630
+      internalID: -575166021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_170
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 92
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4edd70fdde7b4997d759b95eab3f0
+      internalID: -504383312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_171
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 92
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6822f08f1a822b944af50eb1cd29ef3f
+      internalID: -540504697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_172
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d443e791888b3fc4f8967ba2ad390cdc
+      internalID: -667629024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_173
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 92
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9fa045d181bd34a884132719729f70
+      internalID: -445393235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_174
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 92
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6298d5805ba1d4ba07ec7290dbf5ae
+      internalID: -2038532562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_175
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 93
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc643148ffdf9594ab81bee3cf0a57fd
+      internalID: 111752872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_176
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 93
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb800feb40a88744b94969ccb344bd0
+      internalID: -1206721109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_177
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 93
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced322c00cdc2014b91b976ff5779ac8
+      internalID: 484381812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_178
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 92
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bec96a20470db40866b01a819900db
+      internalID: -682394194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_179
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 91
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ea7f62c1afccc4aadf65f462091aa9
+      internalID: -1643851539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_180
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 92
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43d6894b3d6a5a4d9c676731db62723
+      internalID: 516388378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_181
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8ab8818e1e8245be50e3ff87e7a93
+      internalID: 428327057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_182
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4624c4d48ac8524f8b2cabf88e82b55
+      internalID: -1484807994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_183
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e111bd8a5422c4ab83d906eb437b83
+      internalID: -404556014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_184
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 58
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a7485c3ef922b41bd80634f09873ff
+      internalID: -1944228643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_185
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 57
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d40463902de044d99e6bbf58940295
+      internalID: 1244534450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_186
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 54
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828929fce73c194c9583561e1710016
+      internalID: 1584647323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_187
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 53
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ac34f99f933d94899cea9e2ecb506f
+      internalID: 2134040497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_188
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 53
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e3ab4d972c10a4ab6046ccc8ed1624
+      internalID: 2013425367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_189
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 55
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce28b1353dc7e41b4f67d8ad891afc
+      internalID: -1326223905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_190
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 55
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be89c17e1a39a4aa96f095b3570e91
+      internalID: 1566082497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_191
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 55
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce561d9e31aa5594bb04b193bec3a1d5
+      internalID: -929050669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_192
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 55
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc4d9012cd0694abd9f58c40236cde
+      internalID: 368920166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_193
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 55
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d3a1b406a66a44924722d783303b6
+      internalID: -2023576995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_194
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 55
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6371c47b93ee4744bd301a991c8d283
+      internalID: -510451227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_195
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 55
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dddf5a341dee54284052955439bede
+      internalID: 332088262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_196
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 55
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e27abba4d780414f8e22ad739a8caad
+      internalID: 1590483606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_197
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 56
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef320d8461c12f046ab16529bb4e87de
+      internalID: -26520795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_198
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 56
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab1234cef83194b927cde3fa66a80e
+      internalID: 1778650862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_199
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 56
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ad351118973d4b9c51f6ec72efb4b
+      internalID: -1833233326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_200
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 55
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139eb1e7322d764e89e07e75485af94
+      internalID: -581096282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_201
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 54
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb141e3c1b17c94f834184455dd500c
+      internalID: 423942450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_202
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 55
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c5b75c3d614b4486d4e7e1621467f
+      internalID: 106720237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_203
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 55
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e12b4d738df1764990e406998ba9755
+      internalID: 46635584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_204
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db52bf9f5da47469cd5f59a20831f0
+      internalID: 942256929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_205
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 32
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db1d0104fae3024c9518a18bd51c2ad
+      internalID: 1534025801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_206
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968c33e352df6542b15c27b6f5d6cd4
+      internalID: -1018641858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_207
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d4faf601378da4da1abd9f14bcf1ec
+      internalID: -381205348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_208
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67fb0da708efd4ea0329be5094ec48
+      internalID: 1175049144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_209
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dacd3a5d9f3bc84ebae96fbfd4e67f4
+      internalID: 1005382644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_210
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a641bc3a0ba94599d6f2d9ef6ece4
+      internalID: 1107271459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_211
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82c8140a9285d448aaaa0fbf8d82f5
+      internalID: 1135912629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_212
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881185f25cd8ff45894fee839b9d825
+      internalID: -1967694601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_213
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db2af7ca3c6374aae367cd376245a7
+      internalID: 291325765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc94bc25a0cd1ec4d92b802e6638fa2d
+      internalID: 239918602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_215
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 30
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb8050e917b105428f636234c73649c
+      internalID: -1012667027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_216
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 36
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe87c36c36a8534b93fab5698a50fbd
+      internalID: -596808818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_217
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f5ea7a47fb9646b29bfeade073db0
+      internalID: 560014778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_218
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6425c650542549b42145d5eae37eb
+      internalID: 1654514223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_219
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 32
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941424767a5dbee42b6c75679792457b
+      internalID: 1120751745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_220
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 25
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d11b9a073a5147a989898b43ea034
+      internalID: 1666257757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_221
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 25
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0bec1ef4ed96c4a8b4d48362b10c13
+      internalID: 1459674072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_222
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 25
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509ff41a8fe86974a85e740874ca26a1
+      internalID: -787983900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_223
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 25
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828e2f59f64604a469aaae7a2ad33266
+      internalID: -678141589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_224
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 25
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5810663f4c96a347b41e107e8308c0c
+      internalID: 1637123259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_225
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297fad31fe2adba42bac599acaade18b
+      internalID: -2034954885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_226
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852a13999314ff4a9d4bb826c95d838
+      internalID: 998251324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_227
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caf54c18d45c6842945793c8928c255
+      internalID: 2113188661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_228
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38baafc81fd50ef498129dd322a25bc2
+      internalID: 216493001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_229
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88b6a5fe0378c4aa79c686df66a364
+      internalID: 1958387872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_230
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0094f76788f94eb38b757faf73a60
+      internalID: -1535749484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_231
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879947a008fcf6744b615c9ee8539d62
+      internalID: 1975668242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_232
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4733cc0484b14ba4b8f21b5a44443ce9
+      internalID: -1247610609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_233
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e3739a325da3438229e1910e9d353
+      internalID: -1743141840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_234
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac64f74fae2ce4286667eb9e3f0146
+      internalID: 1611188176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_235
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccaaf36244fc634f94998fbb62be535
+      internalID: -341746002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_236
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569f85fedcfbbe4da3d3962ae5fdbdc
+      internalID: -1610587311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_237
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28983807d4ec2e1418f7b3a8b0e7d5f3
+      internalID: 1738144489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_238
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ab34c4f3b6d3c479f2cba40b8df019
+      internalID: -327495930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_239
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ef55ac8cad4846b66fc683dec619c
+      internalID: 228901381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_240
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 5
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924caf5df17d84d4c8e55529f78b05fe
+      internalID: -608290743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_241
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c329ab05fb2d0984fb9469ac7d1e291b
+      internalID: 1846214879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_242
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac9169bb7dc6348a2374b34860f8cc
+      internalID: -655209592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_243
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce8c1dbfee87648b4be5e7d6f63a9d
+      internalID: 1127605188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_244
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be2dc6b372a7a84288533647066e033
+      internalID: 223271378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_245
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b6ae87feba194997c7c6eab55026f
+      internalID: 1857543686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_246
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed223655db7d2469762de3a88b18b5
+      internalID: 1743495122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_247
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4456326a6bff70140a00814f47d1ebfa
+      internalID: 1604823878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_248
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7883ab0be8f364282ab2348810d4ec
+      internalID: 298889987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_249
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 5
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b40187e758f0e489c63b8577a6607b
+      internalID: -1927789010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_250
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e4b4da32f650e43b62f84557c7a012
+      internalID: -1061948975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_251
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea04c160f9915a4b8e0ee2603db3e71
+      internalID: 2107790254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_252
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc43c4b01d5f0ce4b88dd133ead91545
+      internalID: 296834580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals
+        (1)_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572f6116025e7b14cb5361feee0f253b
+      internalID: -1833626173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_0: 674204585
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_1: 83317031
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_10: 1218884003
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_100: 156362227
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_101: 144570855
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_102: 580657967
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_103: -829412723
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_104: 2109031936
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_105: 1344422275
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_106: 531981938
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_107: -919615138
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_108: -1516798792
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_109: 1384483216
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_11: -1605810491
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_110: 147873609
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_111: 1851836281
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_112: 1629218086
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_113: -2001204629
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_114: -1159149270
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_115: -454163189
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_116: -1668721550
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_117: 47519008
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_118: -632612700
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_119: 1071341896
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_12: -1126145992
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_120: 1853862572
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_121: 1285186345
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_122: 352705473
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_123: 818761345
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_124: 635702998
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_125: -176796828
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_126: -585091392
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_127: 198944944
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_128: -1109977653
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_129: -1850003819
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_13: 1315422273
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_130: 1480225652
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_131: 572834752
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_132: -331654991
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_133: 1956870643
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_134: -1482079529
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_135: 2001002272
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_136: -2121000376
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_137: -1000385231
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_138: 79737329
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_139: 1609719142
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_14: -46250946
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_140: 1300702110
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_141: 294164849
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_142: -1985073750
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_143: -1211116948
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_144: -998343434
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_145: 1464940809
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_146: 1082789652
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_147: 1830725297
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_148: 699243169
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_149: -1520432678
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_15: -1996533965
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_150: -259931566
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_151: 573768394
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_152: -252213438
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_153: 1523288323
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_154: -92879377
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_155: 2071080576
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_156: 1403299057
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_157: 1995219420
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_158: 545485239
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_159: -1726275677
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_16: 991030527
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_160: -1587891235
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_161: -807506929
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_162: 151739389
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_163: -2136373861
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_164: 1540548430
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_165: -1451280033
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_166: 1392458765
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_167: -353315214
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_168: 54074226
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_169: -575166021
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_17: 1649631735
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_170: -504383312
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_171: -540504697
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_172: -667629024
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_173: -445393235
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_174: -2038532562
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_175: 111752872
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_176: -1206721109
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_177: 484381812
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_178: -682394194
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_179: -1643851539
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_18: -78654752
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_180: 516388378
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_181: 428327057
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_182: -1484807994
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_183: -404556014
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_184: -1944228643
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_185: 1244534450
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_186: 1584647323
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_187: 2134040497
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_188: 2013425367
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_189: -1326223905
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_19: -417721971
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_190: 1566082497
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_191: -929050669
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_192: 368920166
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_193: -2023576995
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_194: -510451227
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_195: 332088262
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_196: 1590483606
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_197: -26520795
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_198: 1778650862
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_199: -1833233326
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_2: -1146663126
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_20: -2042153601
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_200: -581096282
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_201: 423942450
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_202: 106720237
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_203: 46635584
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_204: 942256929
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_205: 1534025801
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_206: -1018641858
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_207: -381205348
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_208: 1175049144
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_209: 1005382644
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_21: 1307328307
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_210: 1107271459
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_211: 1135912629
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_212: -1967694601
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_213: 291325765
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_214: 239918602
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_215: -1012667027
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_216: -596808818
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_217: 560014778
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_218: 1654514223
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_219: 1120751745
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_22: -419525813
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_220: 1666257757
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_221: 1459674072
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_222: -787983900
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_223: -678141589
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_224: 1637123259
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_225: -2034954885
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_226: 998251324
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_227: 2113188661
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_228: 216493001
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_229: 1958387872
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_23: 1366004599
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_230: -1535749484
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_231: 1975668242
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_232: -1247610609
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_233: -1743141840
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_234: 1611188176
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_235: -341746002
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_236: -1610587311
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_237: 1738144489
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_238: -327495930
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_239: 228901381
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_24: 1500087307
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_240: -608290743
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_241: 1846214879
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_242: -655209592
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_243: 1127605188
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_244: 223271378
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_245: 1857543686
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_246: 1743495122
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_247: 1604823878
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_248: 298889987
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_249: -1927789010
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_25: -2100305778
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_250: -1061948975
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_251: 2107790254
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_252: 296834580
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_253: -1833626173
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_26: 1221059611
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_27: -70337533
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_28: -335963615
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_29: 901497426
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_3: -111384509
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_30: -1964002310
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_31: 248835261
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_32: 440770676
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_33: 827200635
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_34: -2119306196
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_35: 1031320494
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_36: 935866927
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_37: -1340375500
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_38: 209302439
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_39: 935283608
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_4: -468968369
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_40: -723399023
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_41: -2043739913
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_42: -996909820
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_43: -1098315548
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_44: -1949683076
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_45: 511380008
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_46: -748499044
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_47: 66620377
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_48: 1779716863
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_49: -1007885137
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_5: -1418605143
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_50: 1625087896
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_51: -2018289412
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_52: -353224853
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_53: -301618724
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_54: 2031060552
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_55: 319514220
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_56: 1980142153
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_57: 791135338
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_58: -770920322
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_59: 2101063534
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_6: -299875601
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_60: 1251528802
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_61: 1541008368
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_62: -354472229
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_63: -355617349
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_64: 1308946250
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_65: -759232747
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_66: 16877637
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_67: 252754650
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_68: 357658681
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_69: 2145643352
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_7: 365952524
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_70: -1450179292
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_71: -472988995
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_72: -559956094
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_73: 2081624417
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_74: 609575150
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_75: 1659846512
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_76: 572984493
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_77: -649508717
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_78: 704132519
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_79: -884379074
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_8: -1694317757
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_80: 617213102
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_81: -1591404104
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_82: -860330088
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_83: 1650466812
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_84: -1506888940
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_85: 1226707102
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_86: -269197999
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_87: 321368616
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_88: 1870174257
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_89: 1843180402
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_9: -1059491140
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_90: 579624136
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_91: 898112382
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_92: -307131838
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_93: 600419132
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_94: 1564335218
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_95: 981471948
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_96: 2028873913
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_97: -1328925241
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_98: 1785213600
+      Xbox 360 - Scott Pilgrim vs the World The Game - Money Small Animals (1)_99: -2063768695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
